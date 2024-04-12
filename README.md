@@ -41,4 +41,4 @@ naver mail: kks109101@naver.com
 컴퓨터활용능력1급
 워드프로세서1급
 oa 마스터
-taekwondo 4nd
+태권도 4단
