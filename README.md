@@ -36,3 +36,9 @@ naver mail: kks109101@naver.com
 논리회로
 프로그래밍언어
 지역개발학개론
+
+##certificate
+컴퓨터활용능력1급
+워드프로세서1급
+oa master
+taekwondo 4nd
